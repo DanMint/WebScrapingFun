@@ -1,0 +1,1 @@
+Here I'm scraping a website called "Book to Scrape". Here we are getting a list of books, thier prices, etc... . Here I did a more complicated scrape where I got the price, name and website of the book
